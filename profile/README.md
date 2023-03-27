@@ -9,7 +9,7 @@ Phlex lets you compose web views in pure Ruby — kind of like JSX, but not real
 
 ### Support ✋
 
-If you run into any trouble, please [start a discussion](https://github.com/joeldrapper/phlex/discussions/new), or [open an issue](https://github.com/joeldrapper/phlex/issues/new) if you think you’ve found a bug.
+If you run into any trouble, please **[start a discussion](https://github.com/orgs/phlex-ruby/discussions/new/choose)**, or **[open an issue](https://github.com/phlex-ruby/phlex/issues/new)** if you think you’ve found a bug.
 
 ### Ecosystem 🌱
 - **[phlex-rails](https://github.com/phlex-ruby/phlex-rails)** — Ruby on Rails integration
