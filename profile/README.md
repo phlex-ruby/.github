@@ -44,7 +44,3 @@ Everyone interacting in Phlex codebases, issue trackers or chat rooms is expecte
 ### Thanks 🙏
 
 Thanks [Logology](https://www.logology.co) for sponsoring our logo.
-
-
-om/clearwater-rb/clearwater)
-- [paggio](https://github.com/opal/paggio)
