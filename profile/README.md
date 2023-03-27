@@ -35,7 +35,7 @@ Maintaining a library is a lot of work. If your company benefits from this work 
 
 ### Security 🚨
 
-If you’ve found a potential security issue, please email [security@phlex.fun](mailto:security@phlex.fun).
+If you’ve found a potential security issue, please email [security@phlex.fun](mailto:security@phlex.fun). DO NOT OPEN AN ISSUE OR PULL REQUEST WITH A FIX.
 
 ### Community 🙌
 
@@ -45,15 +45,6 @@ Everyone interacting in Phlex codebases, issue trackers or chat rooms is expecte
 
 Thanks [Logology](https://www.logology.co) for sponsoring our logo.
 
-### Prior Art 🎨
 
-- [markaby](https://github.com/markaby/markaby)
-- [erector](https://github.com/erector/erector)
-- [papercraft](https://github.com/digital-fabric/papercraft)
-- [matestack](https://github.com/matestack/matestack-ui-core)
-- [arbre](https://github.com/activeadmin/arbre)
-- [tubby](https://github.com/judofyr/tubby)
-- [hoshi](https://github.com/pete/hoshi)
-- [hyperstack](https://github.com/hyperstack-org/hyperstack)
-- [clearwater](https://github.com/clearwater-rb/clearwater)
+om/clearwater-rb/clearwater)
 - [paggio](https://github.com/opal/paggio)
