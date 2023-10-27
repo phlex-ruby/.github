@@ -28,6 +28,7 @@ If you run into any trouble, please **[start a discussion](https://github.com/or
 - **[Feedbin](https://feedbin.com/)**
 - **[Clearscope](https://www.clearscope.io)**
 - **[Benchmark Wine Group](https://www.benchmarkwine.com)**
+- **[Judoscale](https://judoscale.com/)**
 
 *If you’re using Phlex in production, please [add it to the list](https://github.com/phlex-ruby/.github/edit/main/profile/README.md).*
 
