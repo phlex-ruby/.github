@@ -24,9 +24,10 @@ If you run into any trouble, please **[start a discussion](https://github.com/or
 - **[ViewComponent/lookbook](https://github.com/ViewComponent/lookbook)** — Document and preview Phlex components in Rails (v2 beta only)
 
 ### Who uses Phlex?
-
-- [Clearscope](https://www.clearscope.io)
-- [Benchmark Wine Group](https://www.benchmarkwine.com)
+- **[RubyGems.org](https://rubygems.org)**
+- **[Feedbin](https://feedbin.com/)**
+- **[Clearscope](https://www.clearscope.io)**
+- **[Benchmark Wine Group](https://www.benchmarkwine.com)**
 
 *If you’re using Phlex in production, please [add it to the list](https://github.com/phlex-ruby/.github/edit/main/profile/README.me).*
 
