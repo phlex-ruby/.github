@@ -23,6 +23,10 @@ If you run into any trouble, please **[start a discussion](https://github.com/or
 - **[marcoroth/phlexing](https://github.com/marcoroth/phlexing)** — ERB → Phlex converter
 - **[ViewComponent/lookbook](https://github.com/ViewComponent/lookbook)** — Document and preview Phlex components in Rails (v2 beta only)
 
+#### UI Kits
+- **[PhlexUI](https://phlexui.com)**
+- **[ZestUI](https://zestui.com)**
+
 ### Who uses Phlex?
 - **[RubyGems.org](https://rubygems.org)**
 - **[Feedbin](https://feedbin.com/)**
