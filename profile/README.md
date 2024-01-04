@@ -33,6 +33,7 @@ If you run into any trouble, please **[start a discussion](https://github.com/or
 - **[Clearscope](https://www.clearscope.io)**
 - **[Benchmark Wine Group](https://www.benchmarkwine.com)**
 - **[Judoscale](https://judoscale.com/)**
+- **[Uscreen](https://www.uscreen.tv)**
 
 *If you’re using Phlex in production, please [add it to the list](https://github.com/phlex-ruby/.github/edit/main/profile/README.md).*
 
@@ -42,7 +43,10 @@ Maintaining a library is a lot of work. If your company benefits from this work 
 
 ### Security 🚨
 
-If you’ve found a potential security issue, please email [security@phlex.fun](mailto:security@phlex.fun). DO NOT OPEN AN ISSUE OR PULL REQUEST WITH A FIX.
+> [!CAUTION]  
+> Do not open an issue or pull request for security issues.
+
+If you’ve found a potential security issue, [report a vulnerability here](https://github.com/phlex-ruby/phlex/security/advisories/new).
 
 ### Community 🙌
 
