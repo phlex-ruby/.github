@@ -55,3 +55,8 @@ Everyone interacting in Phlex codebases, issue trackers or chat rooms is expecte
 ### Thanks 🙏
 
 Thanks [Logology](https://www.logology.co) for sponsoring our logo.
+
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.15; background: linear-gradient(90deg, rgb(207, 17, 103) 0%, rgb(157, 226, 255) 35%, rgba(0, 212, 255, 1) 100%);]{x0000}$}
