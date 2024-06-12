@@ -34,6 +34,7 @@ If you run into any trouble, please **[start a discussion](https://github.com/or
 - **[Benchmark Wine Group](https://www.benchmarkwine.com)**
 - **[Judoscale](https://judoscale.com/)**
 - **[Uscreen](https://www.uscreen.tv)**
+- **[Linkana](https://www.linkana.com/en/)**
 
 *If you’re using Phlex in production, please [add it to the list](https://github.com/phlex-ruby/.github/edit/main/profile/README.md).*
 
