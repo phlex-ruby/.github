@@ -16,10 +16,6 @@ If you run into any trouble, please **[start a discussion](https://github.com/or
 - **[phlex-rails](https://github.com/phlex-ruby/phlex-rails)** — Ruby on Rails integration
 - **[phlex.fun](https://github.com/joeldrapper/phlex.fun)** — Docs Website
 - **[phlex-markdown](https://github.com/phlex-ruby/phlex-markdown)** — Markdown to HTML using Phlex
-- **[phlex-compiler (WIP)](https://github.com/joeldrapper/phlex-compiler)** — A compiler for Phlex
-- **[phlex-translation](https://github.com/phlex-ruby/phlex-translation)** — I18n Support for Phlex
-- **[phlex-testing-nokogiri](https://github.com/phlex-ruby/phlex-testing-nokogiri)** — Nokogiri support
-- **[phlex-testing-capybara](https://github.com/phlex-ruby/phlex-testing-capybara)** — Capybara support
 - **[marcoroth/phlexing](https://github.com/marcoroth/phlexing)** — ERB → Phlex converter
 - **[ViewComponent/lookbook](https://github.com/ViewComponent/lookbook)** — Document and preview Phlex components in Rails (v2 beta only)
 
