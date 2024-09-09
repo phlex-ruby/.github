@@ -1,27 +1,15 @@
 <a href="https://www.phlex.fun"><img alt="Phlex logo" src="https://www.phlex.fun/assets/logo.png" width="180" /></a>
 
-Phlex lets you compose web views in pure Ruby — kind of like JSX, but not really anything like JSX. It’s super-fast, thread-safe and supports TruffleRuby v22.2+, JRuby v9.2+ and MRI v2.7+. Phlex currently supports HTML and SVG views and we’re exploring JSON and XML.
+Phlex lets you compose web views in pure Ruby.
 
 ### Documentation 📗
 
-- **[Handbook](https://www.phlex.fun)**
-- **[Reference](https://rubydoc.info/gems/phlex)**
+- **[1.0 Stable Docs](https://www.phlex.fun)**
+- **[2.0 Beta Docs](https://beta.phlex.fun)**
 
 ### Support ✋
 
 If you run into any trouble, please **[start a discussion](https://github.com/orgs/phlex-ruby/discussions/new/choose)**, or **[open an issue](https://github.com/phlex-ruby/phlex/issues/new)** if you think you’ve found a bug.
-
-### Ecosystem 🌱
-- **[phlex](https://github.com/phlex-ruby/phlex)** — The library itself
-- **[phlex-rails](https://github.com/phlex-ruby/phlex-rails)** — Ruby on Rails integration
-- **[phlex.fun](https://github.com/joeldrapper/phlex.fun)** — Docs Website
-- **[phlex-markdown](https://github.com/phlex-ruby/phlex-markdown)** — Markdown to HTML using Phlex
-- **[marcoroth/phlexing](https://github.com/marcoroth/phlexing)** — ERB → Phlex converter
-- **[ViewComponent/lookbook](https://github.com/ViewComponent/lookbook)** — Document and preview Phlex components in Rails (v2 beta only)
-
-#### UI Kits
-- **[PhlexUI](https://phlexui.com)**
-- **[ZestUI](https://zestui.com)**
 
 ### Who uses Phlex?
 - **[RubyGems.org](https://rubygems.org)**
