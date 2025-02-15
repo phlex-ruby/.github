@@ -1,11 +1,11 @@
-<a href="https://www.phlex.fun"><img alt="Phlex logo" src="https://www.phlex.fun/assets/logo.png" width="180" /></a>
+# Phlex
 
 Phlex lets you compose web views in pure Ruby.
 
 ### Documentation 📗
 
-- **[1.0 Stable Docs](https://www.phlex.fun)**
-- **[2.0 Beta Docs](https://beta.phlex.fun)**
+- **[v2 Docs](https://phlex.fun)**
+- **[v1 Docs](https://v1.phlex.fun)**
 
 ### Support ✋
 
